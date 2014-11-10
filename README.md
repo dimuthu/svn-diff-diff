@@ -1,7 +1,7 @@
 SVN Diff Diff
 =============
 
-![alt tag](https://raw.github.com/dimuthu/svn-diff-diff/master/res/logo.png)
+![alt tag](https://github.com/dimuthu/svn-diff-diff/blob/master/res/logo.jpg)
 
 A small tool to export file structure of a SVN diff of two revisions. This tool created using python 2.7, pysvn and wxWidgets.
 
