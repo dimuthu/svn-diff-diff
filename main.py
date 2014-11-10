@@ -160,7 +160,7 @@ class MainApp(wx.Frame):
 
 def main():
     app = wx.App(False)
-    frame = MainApp(None, 'SVN Diff Files Export')
+    frame = MainApp(None, 'SVN Diff Diff')
     app.MainLoop()
 
 if __name__ == '__main__':

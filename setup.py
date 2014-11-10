@@ -12,7 +12,7 @@ executables = [
 ]
 
 setup(name='SVN Diff Diff',
-      version = '1.0',
+      version = '1.0.1',
       description = 'A small tool to export file structure of a SVN diff of two revisions.',
       options = dict(build_exe = buildOptions),
       executables = executables)
